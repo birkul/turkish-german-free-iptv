@@ -1,0 +1,40 @@
+name: IPTV-Listeyi hergün güncelle
+
+on:
+  schedule:
+    # Her 6 Saatte (um 0, 6, 12, 18 h UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: 
+    # tiklayinca güncellemek icin manuel müsade
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      
+    steps:
+    - name: Repository laden
+      uses: actions/checkout@v3
+
+    - name: Python einrichten
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Tools installieren
+      run: |
+        python -m pip install --upgrade pip
+        pip install yt-dlp requests
+
+    - name: Skript ausführen
+      run: python update.py
+
+    - name: Änderungen speichern
+      run: |
+        git config --global user.name "Auto-Bot"
+        git config --global user.email "bot@github.com"
+        git add turk_kanallari.m3u
+        git commit -m "Automatische Aktualisierung" || echo "Keine Änderungen"
+        git push
