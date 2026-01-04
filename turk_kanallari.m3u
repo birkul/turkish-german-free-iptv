@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="INFO" tvg-logo="", UPDATED: 04.01.2026 14:25
+#EXTINF:-1 group-title="INFO" tvg-logo="", UPDATED: 04.01.2026 14:37
 http://localhost/dummy.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-name="360 TV", 360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+#EXTINF:-1 group-title="Muzik" tvg-name="Power Turk", Power Turk
+https://listen.powerapp.com.tr/powerturktv/playlist.m3u8
+#EXTINF:-1 group-title="Muzik" tvg-name="Number1 TV", Number1 TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlswlive/broadcast_5c9e17466542d/playlist.m3u8
 #EXTINF:-1 group-title="Dini" tvg-name="Vav TV", Vav TV
 https://www.vavtv.com.tr/url
