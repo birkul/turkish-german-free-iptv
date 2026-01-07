@@ -10,7 +10,7 @@
 
 Bu proje, Türkiye ve Almanya'daki ücretsiz yayın yapan (Free-to-Air) kanalları en yüksek kalitede sunan, kendi kendini onaran ve güncelleyen bir otomasyon sistemidir.
 
-### ✨ "Genius v7.0" Özellikleri
+### ✨ "Genius v7.3" Özellikleri
 * **🌍 Otomatik Keşif (Avcı Modu):** Bir link bozulduğunda, bot küresel veri tabanlarını otomatik olarak tarar ve yasal alternatif yayınları bulur.
 * **🐘 Akıllı Bellek (Hafıza):** Bot çalışan linkleri hatırlar. Sunucu kaynaklı geçici kesintilerde, hafızasındaki son sağlam linki otomatik olarak devreye sokar.
 * **⚡ Turbo Çoklu İşlem:** 25'ten fazla kanalı aynı anda kontrol eder. 250+ kanallık listenin güncellenmesi 2 dakikadan kısa sürer.
@@ -38,7 +38,7 @@ Bot her güncellemede şeffaf bir rapor sunar.
 
 Dieses Projekt ist ein selbstheilendes Automatisierungssystem, das türkische und deutsche Free-TV-Sender in höchster Qualität bereitstellt.
 
-### ✨ "Genius v7.0" Funktionen
+### ✨ "Genius v7.3" Funktionen
 * **🌍 Auto-Discovery (Hunter-Modus):** Wenn ein Link ausfällt, durchsucht der Bot automatisch globale Datenbanken nach legalen Ersatz-Streams.
 * **🐘 Smart History (Das Gedächtnis):** Der Bot merkt sich funktionierende Links. Bei temporären Ausfällen stellt er automatisch den letzten stabilen Link wieder her.
 * **⚡ Turbo-Multithreading:** Überprüft mehr als 25 Kanäle gleichzeitig. Das Update von 250+ Sendern dauert weniger als 2 Minuten.
@@ -65,7 +65,7 @@ Da wir nichts verbergen, zeigt der Statusbericht genau, was passiert:
 
 This project is a self-healing automation system providing Turkish and German Free-to-Air channels in peak quality.
 
-### ✨ "Genius v7.0" Features
+### ✨ "Genius v7.3" Features
 * **🌍 Auto-Discovery (Hunter Mode):** If a link fails, the bot automatically scans global databases for legal alternative streams.
 * **🐘 Smart History (Elephant Memory):** The bot remembers working links. During temporary outages, it automatically restores the last stable source.
 * **⚡ Turbo Multithreading:** Verifies more than 25 channels simultaneously. Updating 250+ channels takes less than 2 minutes.
