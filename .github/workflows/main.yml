@@ -2,8 +2,9 @@ name: Tägliches IPTV Update
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Every 6 hours
-  workflow_dispatch:      # Manual start
+    - cron: '0 */6 * * *' # Alle 6 Stunden
+  workflow_dispatch:      # Manuell startbar
+  push:                   # Startet auch, wenn etwas am Code ändert
 
 jobs:
   build:
@@ -34,9 +35,13 @@ jobs:
         git config --global user.name "Auto-Bot"
         git config --global user.email "bot@github.com"
         
+        # Neue Datei hinzufügen
         git add turkalmankanallari.m3u
         
-        git rm --cached turk_kanallari.m3u || true
+        # ALTE Datei zwingend löschen (falls sie existiert)
+        if [ -f "turk_kanallari.m3u" ]; then
+          git rm turk_kanallari.m3u
+        fi
         
-        git commit -m "Auto-Update: turkalmankanallari.m3u" || echo "Keine Änderungen"
+        git commit -m "Auto-Update & Rename" || echo "Keine Änderungen"
         git push
