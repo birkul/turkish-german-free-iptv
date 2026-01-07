@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.tvcdn.net/guide/tr-guide.xml,https://epg.share.zips.ovh/germany.xml"
-#EXTINF:-1 group-title="INFO", STAND: 07.01.2026 23:37
+#EXTINF:-1 group-title="INFO", STAND: 07.01.2026 23:39
 http://localhost/info.m3u8
 #EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/3sat_Logo_2019.svg/1200px-3sat_Logo_2019.svg.png" group-title="DE | Deutsch",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
@@ -118,7 +118,7 @@ https://ciner.daioncdn.net/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="TR | Haber",Halk TV [FHD]
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="TR | Haber",NTV [FHD]
-http://mn-nl.mncdn.com/dogusdyg_ntv/live.m3u8?st=NE3KTbhGPQGE8wBAsMA9xQ&e=1767915410
+http://mn-nl.mncdn.com/dogusdyg_ntv/live.m3u8?st=F83PKh2v_2Dfc7fHt9Cw1g&e=1767915569
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png" group-title="TR | Haber",TBMM TV [SD]
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://i.imgur.com/PrxwKDw.png" group-title="TR | Haber",TGRT Haber [SD]
