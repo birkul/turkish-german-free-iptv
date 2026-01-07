@@ -48,7 +48,7 @@ Dieses Projekt ist ein selbstheilendes Automatisierungssystem, das türkische un
 * **🏎️ Speed-Optimierung:** Misst die Latenz (Ping) und wählt bei mehreren Quellen automatisch den schnellsten Server für schnelles Zappen.
 
 ### 🔗 Installation (M3U Link)
-Kopieren Sie den folgenden Link und fügen Sie ihn Ihrem bevorzugten IPTV-Player hinzu (IBOplayer, Smart-IPTV, TiviMate, VLC usw.):
+Kopieren Sie den folgenden Link und fügen Sie ihn Ihrem bevorzugten IPTV-Player hinzu (IBOplayer, Smart-IPTV, TiviMate, VLC usw.): 
 https://raw.githubusercontent.com/birkul/turkish-german-free-iptv/main/turkalmankanallari.m3u
 
 
