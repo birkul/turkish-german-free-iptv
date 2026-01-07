@@ -16,7 +16,7 @@
 | Euronews DE | 🔴 | -ms |
 | HR Fernsehen | 🔴 | -ms |
 | Hamburg 1 | 🔴 | -ms |
-| KiKA | 🟢 | 186ms |
+| KiKA | 🟢 | 256ms |
 | L-TV | 🔴 | -ms |
 | MDR Sachsen | 🔴 | -ms |
 | München TV | 🔴 | -ms |
@@ -38,131 +38,131 @@
 | ZDFinfo | 🔴 | -ms |
 | ZDFneo | 🔴 | -ms |
 | TGRT Belgesel | 🔴 | -ms |
-| TRT 2 | 🟢 | 9ms |
+| TRT 2 | 🟢 | 38ms |
 | TRT Belgesel | 🔴 | -ms |
 | Baby TV | 🔴 | -ms |
 | Minika Cocuk | 🔴 | -ms |
 | Minika GO | 🔴 | -ms |
 | TRT Cocuk | 🟢 | 15ms |
-| TRT Diyanet Cocuk | 🟢 | 29ms |
-| TRT EBA | 🟢 | 158ms |
-| Diyanet TV | 🟢 | 651ms |
-| Dost TV | 🟢 | 189ms |
-| Lalegul TV | 🟢 | 125ms |
-| Rehber TV | 🟢 | 231ms |
-| Sat 7 Turk | 🟢 | 153ms |
-| Semerkand TV | 🟢 | 146ms |
+| TRT Diyanet Cocuk | 🟢 | 31ms |
+| TRT EBA | 🟢 | 10ms |
+| Diyanet TV | 🟢 | 782ms |
+| Dost TV | 🟢 | 129ms |
+| Lalegul TV | 🟢 | 121ms |
+| Rehber TV | 🟢 | 116ms |
+| Sat 7 Turk | 🟢 | 138ms |
+| Semerkand TV | 🟢 | 189ms |
 | TV 5 | 🔴 | -ms |
-| 24 TV | 🟢 | 122ms |
+| 24 TV | 🟢 | 129ms |
 | A Haber | 🔴 | -ms |
-| Akit TV | 🟢 | 162ms |
-| Bengu Turk | 🟢 | 175ms |
-| Bloomberg HT | 🟢 | 728ms |
-| CNBC-E | 🟢 | 35ms |
+| Akit TV | 🟢 | 131ms |
+| Bengu Turk | 🟢 | 222ms |
+| Bloomberg HT | 🟢 | 557ms |
+| CNBC-E | 🟢 | 25ms |
 | CNN Turk | 🔴 | -ms |
-| DHA Canli | 🟢 | 152ms |
-| Ekol Haber | 🟢 | 166ms |
+| DHA Canli | 🟢 | 155ms |
+| Ekol Haber | 🟢 | 126ms |
 | Ekoturk | 🔴 | -ms |
-| Haber Global | 🟢 | 157ms |
+| Haber Global | 🟢 | 148ms |
 | Haberturk | 🔴 | -ms |
-| Halk TV | 🟢 | 153ms |
+| Halk TV | 🟢 | 170ms |
 | KRT TV | 🔴 | -ms |
-| NTV | 🟢 | 156ms |
+| NTV | 🟢 | 47ms |
 | Sozcu TV | 🔴 | -ms |
-| TBMM TV | 🟢 | 601ms |
-| TGRT Haber | 🟢 | 108ms |
-| TRT Haber | 🟢 | 27ms |
-| TVNET | 🟢 | 411ms |
-| Tele 1 | 🟢 | 120ms |
+| TBMM TV | 🟢 | 621ms |
+| TGRT Haber | 🟢 | 147ms |
+| TRT Haber | 🟢 | 37ms |
+| TVNET | 🟢 | 440ms |
+| Tele 1 | 🟢 | 123ms |
 | Ulusal Kanal | 🔴 | -ms |
 | Akilli TV | 🔴 | -ms |
-| Dream Turk | 🟢 | 403ms |
-| Kral Pop | 🟢 | 567ms |
+| Dream Turk | 🟢 | 356ms |
+| Kral Pop | 🟢 | 914ms |
 | Kral TV | 🔴 | -ms |
-| Meltem TV | 🟢 | 150ms |
-| Number1 Ask | 🟢 | 156ms |
-| Number1 Damar | 🟢 | 151ms |
-| Number1 Dance | 🟢 | 130ms |
-| Number1 TV | 🟢 | 156ms |
-| Number1 Turk | 🟢 | 160ms |
-| Power Dance | 🟢 | 146ms |
-| Power Love | 🟢 | 172ms |
-| Power TV | 🟢 | 146ms |
-| Power Turk | 🟢 | 148ms |
-| Power Turk Akustik | 🟢 | 138ms |
-| Power Turk Slow | 🟢 | 150ms |
-| Power Turk Taptaze | 🟢 | 140ms |
-| TRT Muzik | 🟢 | 16ms |
-| Tempo TV | 🟢 | 200ms |
+| Meltem TV | 🟢 | 139ms |
+| Number1 Ask | 🟢 | 116ms |
+| Number1 Damar | 🟢 | 123ms |
+| Number1 Dance | 🟢 | 112ms |
+| Number1 TV | 🟢 | 112ms |
+| Number1 Turk | 🟢 | 123ms |
+| Power Dance | 🟢 | 142ms |
+| Power Love | 🟢 | 150ms |
+| Power TV | 🟢 | 140ms |
+| Power Turk | 🟢 | 180ms |
+| Power Turk Akustik | 🟢 | 137ms |
+| Power Turk Slow | 🟢 | 145ms |
+| Power Turk Taptaze | 🟢 | 137ms |
+| TRT Muzik | 🟢 | 57ms |
+| Tempo TV | 🟢 | 154ms |
 | Vatan TV | 🔴 | -ms |
-| World Turk | 🟢 | 164ms |
+| World Turk | 🟢 | 230ms |
 | A Spor | 🔴 | -ms |
-| Bein Sports Haber | 🟢 | 59ms |
-| Ekol Sports | 🟢 | 161ms |
+| Bein Sports Haber | 🟢 | 21ms |
+| Ekol Sports | 🟢 | 121ms |
 | FB TV | 🔴 | -ms |
 | GS TV | 🔴 | -ms |
-| HT Spor | 🟢 | 132ms |
-| Sports TV | 🟢 | 441ms |
-| TJK TV | 🟢 | 594ms |
+| HT Spor | 🟢 | 133ms |
+| Sports TV | 🟢 | 351ms |
+| TJK TV | 🟢 | 497ms |
 | TJK TV 2 | 🔴 | -ms |
 | TRT Spor | 🔴 | -ms |
 | TRT Spor Yildiz | 🔴 | -ms |
-| TV8.5 | 🟢 | 606ms |
-| 360 TV | 🟢 | 126ms |
-| A2 | 🟢 | 1341ms |
-| ATV | 🟢 | 328ms |
+| TV8.5 | 🟢 | 662ms |
+| 360 TV | 🟢 | 119ms |
+| A2 | 🟢 | 502ms |
+| ATV | 🟢 | 116ms |
 | ATV Avrupa | 🔴 | -ms |
 | Beyaz TV | 🔴 | -ms |
-| CAN TV | 🟢 | 117ms |
-| Ciftci TV | 🟢 | 166ms |
+| CAN TV | 🟢 | 123ms |
+| Ciftci TV | 🟢 | 140ms |
 | Cine 1 | 🔴 | -ms |
-| DMAX | 🟢 | 45ms |
-| Euro D | 🟢 | 640ms |
-| Euro Star | 🟢 | 684ms |
-| Flash Haber | 🟢 | 1010ms |
-| Kanal 7 | 🟢 | 123ms |
-| Kanal 7 Avrupa | 🟢 | 168ms |
-| Kanal D | 🟢 | 251ms |
+| DMAX | 🟢 | 62ms |
+| Euro D | 🟢 | 771ms |
+| Euro Star | 🟢 | 274ms |
+| Flash Haber | 🟢 | 371ms |
+| Kanal 7 | 🟢 | 130ms |
+| Kanal 7 Avrupa | 🟢 | 199ms |
+| Kanal D | 🟢 | 370ms |
 | Koy TV | 🔴 | -ms |
 | NOW (FOX) | 🟢 | 112ms |
-| Persiana Turkiye | 🟢 | 152ms |
+| Persiana Turkiye | 🟢 | 100ms |
 | Show TV | 🔴 | -ms |
-| Show Turk | 🟢 | 12ms |
+| Show Turk | 🟢 | 6ms |
 | Star TV | 🔴 | -ms |
-| Syria TV | 🟢 | 8ms |
-| TLC | 🟢 | 42ms |
-| TRT 1 | 🟢 | 526ms |
-| TRT Turk | 🟢 | 44ms |
-| TRT World | 🟢 | 32ms |
-| TV100 | 🟢 | 624ms |
-| TV4 | 🟢 | 892ms |
+| Syria TV | 🟢 | 43ms |
+| TLC | 🟢 | 40ms |
+| TRT 1 | 🟢 | 880ms |
+| TRT Turk | 🟢 | 17ms |
+| TRT World | 🟢 | 16ms |
+| TV100 | 🟢 | 719ms |
+| TV4 | 🟢 | 329ms |
 | TV8 | 🔴 | -ms |
-| Teve 2 | 🟢 | 702ms |
-| Tivi 6 | 🟢 | 207ms |
+| Teve 2 | 🟢 | 399ms |
+| Tivi 6 | 🟢 | 152ms |
 | Turizm Turk | 🔴 | -ms |
 | Ulke TV | 🔴 | -ms |
 | Uçankuş TV | 🔴 | -ms |
-| Aksu TV (Maras) | 🟢 | 140ms |
-| BRTV (Karabuk) | 🟢 | 142ms |
+| Aksu TV (Maras) | 🟢 | 143ms |
+| BRTV (Karabuk) | 🟢 | 136ms |
 | Bursa TV | 🔴 | -ms |
 | Cay TV (Rize) | 🔴 | -ms |
-| ES TV (Eskisehir) | 🟢 | 155ms |
+| ES TV (Eskisehir) | 🟢 | 139ms |
 | Edessa TV (Urfa) | 🔴 | -ms |
 | Ege TV | 🔴 | -ms |
 | HRT Akdeniz | 🔴 | -ms |
 | Kadirga TV (Trabzon) | 🔴 | -ms |
-| Kanal 15 (Burdur) | 🟢 | 147ms |
+| Kanal 15 (Burdur) | 🟢 | 140ms |
 | Kanal 26 (Eskisehir) | 🟢 | 140ms |
 | Kanal 33 (Mersin) | 🔴 | -ms |
-| Kanal 58 (Sivas) | 🟢 | 147ms |
+| Kanal 58 (Sivas) | 🟢 | 137ms |
 | Kanal S (Samsun) | 🔴 | -ms |
 | Kanal V (Antalya) | 🟢 | 140ms |
 | Kon TV (Konya) | 🔴 | -ms |
 | Line TV (Bursa) | 🔴 | -ms |
 | Manisa TV | 🔴 | -ms |
 | On6 TV | 🔴 | -ms |
-| TRT Avaz | 🟢 | 12ms |
-| TRT Kurdi | 🟢 | 57ms |
-| TV 41 (Kocaeli) | 🟢 | 154ms |
+| TRT Avaz | 🟢 | 13ms |
+| TRT Kurdi | 🟢 | 12ms |
+| TV 41 (Kocaeli) | 🟢 | 140ms |
 | TV 52 (Ordu) | 🔴 | -ms |
-| Ton TV (Canakkale) | 🟢 | 175ms |
+| Ton TV (Canakkale) | 🟢 | 140ms |
