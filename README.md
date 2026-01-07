@@ -1,4 +1,4 @@
-# 📺 Turkish-German Free IPTV (2025/2026)
+# 📺 Turkish-German Free IPTV (2026)
 
 ![Status](https://img.shields.io/github/actions/workflow/status/birkul/turkish-german-free-iptv/main.yml?label=Auto-Update&style=flat-square&color=success)
 ![Channels](https://img.shields.io/badge/Channels-140%2B-blue?style=flat-square)
