@@ -20,7 +20,7 @@ jobs:
     - name: Python einrichten
       uses: actions/setup-python@v4
       with:
-        python-version: '3.10' # UPDATE: Von 3.9 auf 3.10 gesetzt
+        python-version: '3.10'
 
     - name: Tools installieren
       run: |
@@ -35,9 +35,15 @@ jobs:
         git config --global user.name "Auto-Bot"
         git config --global user.email "bot@github.com"
         
-        # Füge alle wichtigen Dateien hinzu
+        # 1. Alles vorbereiten
         git add turkalmankanallari.m3u channel_history.json STATUS.md
         
-        # Commit und Push
-        git commit -m "Auto-Update: Fix Python & Geoblock" || echo "Keine Änderungen"
-        git push
+        # 2. Versuch zu committen (lokal speichern)
+        git commit -m "Auto-Update: Genius v7.3" || echo "Keine Änderungen"
+        
+        # 3. WICHTIG: Erst schauen, ob du (der Nutzer) was geändert hast (z.B. README)
+        # und unsere neuen Dateien sauber oben drauf legen (--rebase)
+        git pull --rebase origin main
+        
+        # 4. Jetzt erst hochladen
+        git push origin main
