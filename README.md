@@ -1,87 +1,86 @@
-# 📺 Turk-free-IPTV
+# 📺 Turkish-German Free IPTV (2025/2026)
 
-![Status](https://img.shields.io/github/actions/workflow/status/toleranta/turk-iptv-auto/main.yml?label=Auto-Update&style=flat-square)
+![Status](https://img.shields.io/github/actions/workflow/status/birkul/turkish-german-free-iptv/main.yml?label=Auto-Update&style=flat-square&color=success)
+![Channels](https://img.shields.io/badge/Channels-140%2B-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-Free-green?style=flat-square)
 
 ---
 
-## 🇹🇷 Türkçe: Otomatik Güncellenen Türk Kanalları
+## 🇹🇷 Türkçe: Otomatik Güncellenen Hibrit Liste
 
-Bu proje, **Türkçe Ulusal, Haber, Spor, Belgesel ve Çocuk kanallarını** içeren, her 6 saatte bir otomatik olarak güncellenen bir **M3U IPTV** listesidir. 
+Hoş geldiniz! Bu proje, **Türkçe ve Almanca** ücretsiz kanalları tek bir çatı altında toplar.
 
-Liste **Github Actions** sayesinde sürekli canlı tutulur. Eğer bir yayın linki değişirse, bot bunu algılar ve günceller. Logolar ve EPG (Yayın Akışı) desteği mevcuttur.
+Botumuz her 6 saatte bir interneti tarar, **Trt, ATV, Show TV** gibi ulusal kanalların yanı sıra **ARD, ZDF** gibi Alman kanallarının da en güncel yayın linklerini bulur.
+Liste, **Akıllı Kategori Sistemi** (TR | Ulusal, DE | Deutsch vb.) ile otomatik olarak klasörlenir.
 
-### 🔗 Kurulum (IBOplayer, TiviMate, VLC vb.)
+### 🔗 Kurulum (M3U Linki)
 
-IPTV oynatıcınıza aşağıdaki linki eklemeniz yeterlidir. Bu link **asla değişmez**, ancak içindeki kanallar her gün güncellenir.
+Aşağıdaki linki kopyalayıp IPTV oynatıcınıza (IBOplayer, Smart-IPTV, TiviMate, VLC, GSE vb.) yapıştırmanız yeterlidir. Link sabittir, içerik her gün otomatik değişir.
 
-**M3U Linki:**
-https://raw.githubusercontent.com/DEIN_BENUTZERNAME/turk-iptv-auto/main/turk_kanallari.m3u
+**M3U Playlist URL:**
+https://raw.githubusercontent.com/birkul/turkish-german-free-iptv/main/turkalmankanallari.m3u
 
-
-**EPG (Yayın Akışı) Linki:**
+**EPG (Yayın Akışı):**
 https://epg.tvcdn.net/guide/tr-guide.xml
 
-### ✨ Özellikler
-* **Otomatik Güncelleme:** Her 6 saatte bir linkler kontrol edilir.
-* **Akıllı Sistem:** Eğer bir kanalın yeni linki bulunamazsa, çalışan eski link korunur.
-* **Kategoriler:** Ulusal, Haber, Spor, Çocuk, Belgesel, Dini, Müzik.
-* **Görsel Zenginlik:** Kanal logoları dahildir.
 
 ---
 
-## 🇩🇪 Deutsch: Automatische Türkische IPTV Liste
 
-Dies ist eine **selbst-aktualisierende M3U-Playlist** für türkische Free-TV Sender. Das Projekt nutzt ein Python-Skript und GitHub Actions, um alle 6 Stunden nach funktionierenden Stream-Links zu suchen.
+## 🇩🇪 Deutsch: Die Ultimative Türkisch-Deutsche Liste
 
-Ideal für Apps wie **IBOplayer, TiviMate, Televizo oder VLC**.
+Willkommen! Dieses Projekt bietet eine **kombinierte Playlist** für türkische und deutsche Free-TV Sender.
+
+Ein Python-Bot durchsucht alle 6 Stunden das Netz nach den frischesten Stream-Links. Egal ob **türkische Nachrichten, Bundesliga-Analysen oder deutsche Dokus** – alles ist sauber sortiert in Ordnern wie `TR | Spor` oder `DE | Deutsch`.
 
 ### 🔗 Installation
 
-Füge einfach diesen Link in deinen Player ein. Der Link bleibt statisch, aber der Inhalt (die Stream-Tokens) wird im Hintergrund aktualisiert.
+Füge diesen Link einfach in deinen Player ein. Du musst ihn nie wieder ändern.
 
 **M3U Playlist URL:**
-https://raw.githubusercontent.com/DEIN_BENUTZERNAME/turk-iptv-auto/main/turk_kanallari.m3u
+https://raw.githubusercontent.com/birkul/turkish-german-free-iptv/main/turkalmankanallari.m3u
 
 
-**EPG URL (TV Guide):**
+**EPG (TV Guide):**
 https://epg.tvcdn.net/guide/tr-guide.xml
 
 
-### ✨ Features
-* **Auto-Update:** Läuft 4x täglich vollautomatisch.
-* **Smart-Fallback:** Wenn ein Sender offline ist, behält das Skript den letzten funktionierenden Link.
-* **Kategorisiert:** Ordnerstruktur für Nachrichten, Sport, Kinder, etc.
-* **Vollständig:** Inklusive Sender-Logos und TV-Guide IDs.
-
 ---
 
-## 🇬🇧 English: Automated Turkish IPTV List
 
-An **auto-updating M3U playlist** for free-to-air Turkish TV channels. Powered by Python and GitHub Actions, this list refreshes every 6 hours to ensure stream links remain active.
+## 🇬🇧 English: Automated Hybrid IPTV List
 
-Compatible with all major IPTV players like **TiviMate, IBOplayer, VLC, Kodi**, etc.
+A fully automated, self-updating playlist combining **Turkish and German Free-to-Air TV channels**.
+Powered by GitHub Actions, this list refreshes every 6 hours to ensure 100% uptime for channels like TRT, ATV, ARD, ZDF, and many more.
 
 ### 🔗 How to use
 
-Add the following permanent link to your player. You do not need to update the link manually; the content refreshes automatically.
+Add this permanent link to your favorite IPTV player.
 
 **M3U Playlist URL:**
-https://raw.githubusercontent.com/DEIN_BENUTZERNAME/turk-iptv-auto/main/turk_kanallari.m3u
+https://raw.githubusercontent.com/birkul/turkish-german-free-iptv/main/turkalmankanallari.m3u
 
-
-**EPG URL (Electronic Program Guide):**
-https://epg.tvcdn.net/guide/tr-guide.xml
-
-
-### ✨ Features
-* **Automated:** Scrapes fresh links every 6 hours.
-* **Reliable:** Includes "Smart Fallback" to keep old links if scraping fails.
-* **Organized:** Grouped by National, News, Sports, Kids, etc.
-* **Rich Metadata:** Includes channel logos and EPG IDs.
 
 ---
 
-### ⚠️ Legal Disclaimer / Yasal Uyari / Rechtlicher Hinweis
-* **TR:** Bu listede sadece **şifresiz (Free-to-Air)** ve halka açık yayın yapan kanallar bulunur. Telif hakkı içeren ücretli platformlar (Exxen, BeinSports şifreli kanallar vb.) bulunmaz.
-* **DE:** Diese Liste enthält ausschließlich **frei empfangbare (Free-to-Air)** Sender. Keine Pay-TV Inhalte.
-* **EN:** This list contains only **Free-to-Air (FTA)** channels publicly available on the internet. No paid/encrypted content included.
+### 📂 Kanal Kategorileri / Channel Categories
+
+| Kategori (Folder) | İçerik / Content |
+| :--- | :--- |
+| **TR \| Ulusal** | ATV, Show TV, Star, Kanal D, TV8, NOW... |
+| **TR \| Haber** | CNN Türk, NTV, Halk TV, Sözcü, A Haber... |
+| **TR \| Spor** | TRT Spor, A Spor, FB TV, GS TV, TJK TV... |
+| **TR \| Muzik** | Power Turk, Kral Pop, Number1, Dream Turk... |
+| **TR \| Cocuk** | TRT Çocuk, Minika GO, Baby TV... |
+| **TR \| Belgesel** | TRT Belgesel, TGRT Belgesel, TRT 2... |
+| **TR \| Dini** | Diyanet TV, Semerkand, Lalegül... |
+| **DE \| Deutsch** | ARD, ZDF, Welt, NDR, WDR, Arte... |
+| **... ve daha fazlası!** | Yerel kanallar, Avrupa yayınları vb. |
+
+
+---
+
+
+### ⚠️ Disclaimer
+* **Legal:** This list contains only **Free-to-Air (FTA)** streams publicly available on the internet. No paid/encrypted content included.
+* **Yasal:** Listede sadece şifresiz ve halka açık yayınlar bulunur.
