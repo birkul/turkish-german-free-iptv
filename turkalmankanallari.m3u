@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.tvcdn.net/guide/tr-guide.xml,https://epg.share.zips.ovh/germany.xml"
-#EXTINF:-1 group-title="INFO", STAND: 07.01.2026 22:12
+#EXTINF:-1 group-title="INFO", STAND: 07.01.2026 22:14
 http://localhost/info.m3u8
 #EXTINF:-1 tvg-id="KiKA.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/KiKA_2012.svg/1200px-KiKA_2012.svg.png" group-title="DE | Deutsch",KiKA [FHD]
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
