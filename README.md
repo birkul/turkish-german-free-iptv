@@ -1,4 +1,4 @@
-# 📺 Turkish-German Genius IPTV (v7.0 AI-Enhanced)
+# 📺 Turkish-German Genius IPTV (v7.3 AI-Enhanced)
 
 ![Status](https://img.shields.io/github/actions/workflow/status/birkul/turkish-german-free-iptv/main.yml?label=Auto-Update&style=flat-square&color=success)
 ![Channels](https://img.shields.io/badge/Channels-250%2B-blue?style=flat-square)
