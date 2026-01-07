@@ -20,7 +20,7 @@ Bu proje, Türkiye ve Almanya'daki ücretsiz yayın yapan (Free-to-Air) kanallar
 * **🏎️ Hız Optimizasyonu:** Sunucuların tepki süresini (Ping) ölçer ve mevcut kaynaklar içinden en hızlı açılan linki seçer.
 
 ### 🔗 Kurulum (M3U Linki)
-Aşağıdaki linki kopyalayıp IPTV oynatıcınıza (IBOplayer, TiviMate, VLC vb.) ekleyin:
+Aşağıdaki linki kopyalayıp IPTV oynatıcınıza (IBOplayer, Smart-IPTV, TiviMate, VLC vb.) ekleyin:
 https://raw.githubusercontent.com/birkul/turkish-german-free-iptv/main/turkalmankanallari.m3u
 
 
@@ -48,7 +48,7 @@ Dieses Projekt ist ein selbstheilendes Automatisierungssystem, das türkische un
 * **🏎️ Speed-Optimierung:** Misst die Latenz (Ping) und wählt bei mehreren Quellen automatisch den schnellsten Server für schnelles Zappen.
 
 ### 🔗 Installation (M3U Link)
-Kopiere diesen Link in deinen bevorzugten IPTV-Player:
+Kopieren Sie den folgenden Link und fügen Sie ihn Ihrem bevorzugten IPTV-Player hinzu (IBOplayer, Smart-IPTV, TiviMate, VLC usw.):
 https://raw.githubusercontent.com/birkul/turkish-german-free-iptv/main/turkalmankanallari.m3u
 
 
@@ -75,7 +75,7 @@ This project is a self-healing automation system providing Turkish and German Fr
 * **🏎️ Speed Optimization:** Measures latency (Ping) and automatically selects the fastest available source for instant channel switching.
 
 ### 🔗 Installation (M3U Link)
-Copy this link into your favorite IPTV player:
+Copy the following link and add it to your favorite IPTV player (IBOplayer, Smart-IPTV, TiviMate, VLC, etc.):
 https://raw.githubusercontent.com/birkul/turkish-german-free-iptv/main/turkalmankanallari.m3u
 
 
