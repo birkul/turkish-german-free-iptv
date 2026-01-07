@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.tvcdn.net/guide/tr-guide.xml,https://epg.share.zips.ovh/germany.xml"
-#EXTINF:-1 group-title="INFO", --- STAND: 07.01.2026 21:02 ---
+#EXTINF:-1 group-title="INFO", --- STAND: 07.01.2026 21:12 ---
 http://localhost/dummy.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="TR | Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
@@ -52,7 +52,7 @@ https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" group-title="TR | Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="TR | Haber",NTV
-http://mn-nl.mncdn.com/dogusdyg_ntv/live_1080p5000000kbps/index.m3u8?st=4KtCCktlkyQIqOLx4DhrtQ&e=1767906204
+http://mn-nl.mncdn.com/dogusdyg_ntv/live_1080p5000000kbps/index.m3u8?st=i7M1IRVpZrlqV3_pC-fWww&e=1767906796
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="TR | Haber",CNN Turk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturkddainp/playlist.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="TR | Haber",Halk TV
@@ -129,6 +129,8 @@ http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tempo.png" group-title="TR | Muzik",Tempo TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/worldturk.png" group-title="TR | Muzik",World Turk
+https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="TR | Cocuk",TRT Cocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="TR | Cocuk",TRT Diyanet Cocuk
@@ -151,6 +153,12 @@ https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/brtv.png" group-title="TR | Yerel",BRTV (Karabuk)
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tv41.png" group-title="TR | Yerel",TV 41 (Kocaeli)
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/estv.png" group-title="TR | Yerel",ES TV (Eskisehir)
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kanal58.png" group-title="TR | Yerel",Kanal 58 (Sivas)
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
 #EXTINF:-1 tvg-id="DIYANET.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png" group-title="TR | Dini",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Semerkand.tr" tvg-logo="https://i.imgur.com/UVGGrQd.png" group-title="TR | Dini",Semerkand TV
