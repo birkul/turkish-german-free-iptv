@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '0 */6 * * *' # Alle 6 Stunden
   workflow_dispatch:      # Manuell startbar
-  push:                   # Startet auch, wenn etwas am Code ändert
+  push:                   # Bei Code-Änderung
 
 jobs:
   build:
@@ -35,13 +35,13 @@ jobs:
         git config --global user.name "Auto-Bot"
         git config --global user.email "bot@github.com"
         
-        # Neue Datei hinzufügen
-        git add turkalmankanallari.m3u
+        # Neue M3U, History und den STATUS REPORT hinzufügen
+        git add turkalmankanallari.m3u channel_history.json STATUS.md
         
-        # ALTE Datei zwingend löschen (falls sie existiert)
+        # Alte Datei sicherheitshalber löschen
         if [ -f "turk_kanallari.m3u" ]; then
           git rm turk_kanallari.m3u
         fi
         
-        git commit -m "Auto-Update & Rename" || echo "Keine Änderungen"
+        git commit -m "Auto-Update: Kanäle & Report" || echo "Keine Änderungen"
         git push
