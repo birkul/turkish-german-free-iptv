@@ -2,17 +2,15 @@ name: Tägliches IPTV Update
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Alle 6 Stunden
-  workflow_dispatch:      # Manuell startbar
-  push:                   # Bei Code-Änderung
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
     permissions:
       contents: write
-      
     steps:
     - name: Repository laden
       uses: actions/checkout@v3
@@ -25,7 +23,7 @@ jobs:
     - name: Tools installieren
       run: |
         python -m pip install --upgrade pip
-        pip install yt-dlp requests
+        pip install yt-dlp requests urllib3
 
     - name: Skript ausführen
       run: python update.py
@@ -34,14 +32,8 @@ jobs:
       run: |
         git config --global user.name "Auto-Bot"
         git config --global user.email "bot@github.com"
-        
-        # Neue M3U, History und den STATUS REPORT hinzufügen
-        git add turkalmankanallari.m3u channel_history.json STATUS.md
-        
-        # Alte Datei sicherheitshalber löschen
-        if [ -f "turk_kanallari.m3u" ]; then
-          git rm turk_kanallari.m3u
-        fi
-        
-        git commit -m "Auto-Update: Kanäle & Report" || echo "Keine Änderungen"
-        git push
+        git add turkalmankanallari.m3u channel_history.json STATUS.md || echo "Dateien noch nicht erstellt"
+        # Löscht die alte Datei endgültig aus dem System
+        git rm turk_kanallari.m3u --ignore-unmatch || echo "Alte Datei bereits weg"
+        git commit -m "Auto-Update: Genius v7.1" || echo "Nichts zu committen"
+        git push || echo "Push fehlgeschlagen"
