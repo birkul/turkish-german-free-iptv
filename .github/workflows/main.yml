@@ -2,15 +2,17 @@ name: Tägliches IPTV Update
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
-  push:
+    - cron: '0 */6 * * *' # Alle 6 Stunden
+  workflow_dispatch:      # Manuell startbar
+  push:                   # Bei Code-Änderung
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
     permissions:
       contents: write
+      
     steps:
     - name: Repository laden
       uses: actions/checkout@v3
@@ -18,7 +20,7 @@ jobs:
     - name: Python einrichten
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
+        python-version: '3.10' # UPDATE: Von 3.9 auf 3.10 gesetzt
 
     - name: Tools installieren
       run: |
@@ -32,8 +34,10 @@ jobs:
       run: |
         git config --global user.name "Auto-Bot"
         git config --global user.email "bot@github.com"
-        git add turkalmankanallari.m3u channel_history.json STATUS.md || echo "Dateien noch nicht erstellt"
-        # Löscht die alte Datei endgültig aus dem System
-        git rm turk_kanallari.m3u --ignore-unmatch || echo "Alte Datei bereits weg"
-        git commit -m "Auto-Update: Genius v7.1" || echo "Nichts zu committen"
-        git push || echo "Push fehlgeschlagen"
+        
+        # Füge alle wichtigen Dateien hinzu
+        git add turkalmankanallari.m3u channel_history.json STATUS.md
+        
+        # Commit und Push
+        git commit -m "Auto-Update: Fix Python & Geoblock" || echo "Keine Änderungen"
+        git push
