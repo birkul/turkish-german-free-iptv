@@ -14,7 +14,7 @@
 | Euronews DE | ⚠️ (Geoblock) | 0ms | FORCE |
 | HR Fernsehen | ⚠️ (Geoblock) | 0ms | FORCE |
 | Hamburg 1 | ⚠️ (Geoblock) | 0ms | FORCE |
-| KiKA | 🟢 | 255ms | HIST |
+| KiKA | 🟢 | 187ms | HIST |
 | L-TV | ⚠️ (Geoblock) | 0ms | FORCE |
 | MDR Sachsen | ⚠️ (Geoblock) | 0ms | FORCE |
 | München TV | ⚠️ (Geoblock) | 0ms | FORCE |
@@ -36,131 +36,131 @@
 | ZDFinfo | ⚠️ (Geoblock) | 0ms | FORCE |
 | ZDFneo | ⚠️ (Geoblock) | 0ms | FORCE |
 | TGRT Belgesel | 🔴 | - | - |
-| TRT 2 | 🟢 | 23ms | HIST |
+| TRT 2 | 🟢 | 17ms | HIST |
 | TRT Belgesel | ⚠️ (Geoblock) | 0ms | FORCE |
 | Baby TV | ⚠️ (Geoblock) | 0ms | FORCE |
 | Minika Cocuk | 🔴 | - | - |
 | Minika GO | 🔴 | - | - |
-| TRT Cocuk | 🟢 | 13ms | JSON |
-| TRT Diyanet Cocuk | 🟢 | 24ms | HIST |
-| TRT EBA | 🟢 | 204ms | JSON |
-| Diyanet TV | 🟢 | 981ms | JSON |
-| Dost TV | 🟢 | 140ms | JSON |
-| Lalegul TV | ⚠️ (Geoblock) | 0ms | FORCE |
-| Rehber TV | 🟢 | 150ms | HIST |
-| Sat 7 Turk | 🟢 | 171ms | JSON |
-| Semerkand TV | 🟢 | 145ms | JSON |
+| TRT Cocuk | 🟢 | 9ms | HIST |
+| TRT Diyanet Cocuk | 🟢 | 13ms | HIST |
+| TRT EBA | 🟢 | 475ms | HIST |
+| Diyanet TV | 🟢 | 627ms | JSON |
+| Dost TV | 🟢 | 96ms | JSON |
+| Lalegul TV | 🟢 | 295ms | JSON |
+| Rehber TV | 🟢 | 92ms | HIST |
+| Sat 7 Turk | 🟢 | 120ms | HIST |
+| Semerkand TV | 🟢 | 94ms | HIST |
 | TV 5 | ⚠️ (Geoblock) | 0ms | FORCE |
-| 24 TV | 🟢 | 173ms | JSON |
+| 24 TV | 🟢 | 110ms | HIST |
 | A Haber | ⚠️ (Geoblock) | 0ms | FORCE |
-| Akit TV | 🟢 | 151ms | JSON |
-| Bengu Turk | 🟢 | 187ms | JSON |
-| Bloomberg HT | 🟢 | 681ms | HIST |
-| CNBC-E | 🟢 | 10ms | JSON |
+| Akit TV | 🟢 | 91ms | HIST |
+| Bengu Turk | 🟢 | 114ms | HIST |
+| Bloomberg HT | 🟢 | 422ms | JSON |
+| CNBC-E | 🟢 | 7ms | HIST |
 | CNN Turk | ⚠️ (Geoblock) | 0ms | FORCE |
-| DHA Canli | 🟢 | 211ms | JSON |
-| Ekol Haber | 🟢 | 168ms | HIST |
+| DHA Canli | 🟢 | 138ms | HIST |
+| Ekol Haber | 🟢 | 121ms | HIST |
 | Ekoturk | 🔴 | - | - |
-| Haber Global | 🟢 | 209ms | JSON |
+| Haber Global | 🟢 | 111ms | HIST |
 | Haberturk | ⚠️ (Geoblock) | 0ms | FORCE |
-| Halk TV | 🟢 | 158ms | JSON |
+| Halk TV | 🟢 | 128ms | HIST |
 | KRT TV | 🔴 | - | - |
-| NTV | 🟢 | 235ms | JSON |
+| NTV | 🟢 | 51ms | JSON |
 | Sozcu TV | 🔴 | - | - |
-| TBMM TV | 🟢 | 631ms | JSON |
-| TGRT Haber | 🟢 | 170ms | JSON |
+| TBMM TV | 🟢 | 442ms | JSON |
+| TGRT Haber | 🟢 | 204ms | JSON |
 | TRT Haber | 🟢 | 14ms | JSON |
-| TVNET | 🟢 | 241ms | JSON |
-| Tele 1 | 🟢 | 166ms | HIST |
+| TVNET | 🟢 | 173ms | HIST |
+| Tele 1 | 🟢 | 170ms | HIST |
 | Ulusal Kanal | 🔴 | - | - |
 | Akilli TV | 🔴 | - | - |
-| Dream Turk | 🟢 | 407ms | HIST |
-| Kral Pop | 🟢 | 519ms | HIST |
+| Dream Turk | 🟢 | 345ms | JSON |
+| Kral Pop | 🟢 | 656ms | HIST |
 | Kral TV | ⚠️ (Geoblock) | 0ms | FORCE |
-| Meltem TV | 🟢 | 170ms | HIST |
-| Number1 Ask | 🟢 | 174ms | JSON |
-| Number1 Damar | 🟢 | 187ms | HIST |
-| Number1 Dance | 🟢 | 210ms | HIST |
-| Number1 TV | 🟢 | 189ms | HIST |
-| Number1 Turk | 🟢 | 167ms | HIST |
-| Power Dance | 🟢 | 216ms | HIST |
-| Power Love | 🟢 | 170ms | JSON |
-| Power TV | 🟢 | 170ms | HIST |
-| Power Turk | 🟢 | 173ms | HIST |
-| Power Turk Akustik | 🟢 | 173ms | JSON |
-| Power Turk Slow | 🟢 | 170ms | JSON |
-| Power Turk Taptaze | 🟢 | 174ms | JSON |
-| TRT Muzik | 🟢 | 23ms | JSON |
-| Tempo TV | 🟢 | 230ms | JSON |
+| Meltem TV | 🟢 | 124ms | HIST |
+| Number1 Ask | 🟢 | 140ms | HIST |
+| Number1 Damar | 🟢 | 106ms | HIST |
+| Number1 Dance | 🟢 | 105ms | JSON |
+| Number1 TV | 🟢 | 102ms | HIST |
+| Number1 Turk | 🟢 | 106ms | HIST |
+| Power Dance | 🟢 | 125ms | JSON |
+| Power Love | 🟢 | 135ms | JSON |
+| Power TV | 🟢 | 131ms | HIST |
+| Power Turk | 🟢 | 124ms | HIST |
+| Power Turk Akustik | 🟢 | 127ms | HIST |
+| Power Turk Slow | 🟢 | 146ms | HIST |
+| Power Turk Taptaze | 🟢 | 122ms | HIST |
+| TRT Muzik | 🟢 | 86ms | HIST |
+| Tempo TV | 🟢 | 123ms | JSON |
 | Vatan TV | ⚠️ (Geoblock) | 0ms | FORCE |
-| World Turk | 🟢 | 178ms | HIST |
+| World Turk | 🟢 | 120ms | HIST |
 | A Spor | ⚠️ (Geoblock) | 0ms | FORCE |
 | Bein Sports Haber | 🟢 | 12ms | HIST |
-| Ekol Sports | 🟢 | 146ms | JSON |
+| Ekol Sports | 🟢 | 119ms | HIST |
 | FB TV | 🔴 | - | - |
 | GS TV | 🔴 | - | - |
-| HT Spor | 🟢 | 149ms | HIST |
-| Sports TV | 🟢 | 617ms | HIST |
-| TJK TV | 🟢 | 569ms | JSON |
+| HT Spor | 🟢 | 91ms | HIST |
+| Sports TV | 🟢 | 364ms | HIST |
+| TJK TV | 🟢 | 607ms | HIST |
 | TJK TV 2 | ⚠️ (Geoblock) | 0ms | FORCE |
 | TRT Spor | ⚠️ (Geoblock) | 0ms | FORCE |
 | TRT Spor Yildiz | ⚠️ (Geoblock) | 0ms | FORCE |
-| TV8.5 | 🟢 | 672ms | HIST |
-| 360 TV | 🟢 | 154ms | JSON |
-| A2 | 🟢 | 357ms | HIST |
-| ATV | 🟢 | 142ms | HIST |
+| TV8.5 | 🟢 | 676ms | JSON |
+| 360 TV | 🟢 | 132ms | JSON |
+| A2 | 🟢 | 466ms | HIST |
+| ATV | 🟢 | 94ms | JSON |
 | ATV Avrupa | ⚠️ (Geoblock) | 0ms | FORCE |
 | Beyaz TV | ⚠️ (Geoblock) | 0ms | FORCE |
-| CAN TV | 🟢 | 147ms | JSON |
-| Ciftci TV | 🟢 | 171ms | HIST |
+| CAN TV | 🟢 | 124ms | HIST |
+| Ciftci TV | 🟢 | 152ms | HIST |
 | Cine 1 | ⚠️ (Geoblock) | 0ms | FORCE |
-| DMAX | 🟢 | 128ms | HIST |
-| Euro D | 🟢 | 327ms | JSON |
-| Euro Star | 🟢 | 11ms | JSON |
-| Flash Haber | 🟢 | 159ms | JSON |
-| Kanal 7 | 🟢 | 148ms | HIST |
-| Kanal 7 Avrupa | 🟢 | 190ms | JSON |
-| Kanal D | 🟢 | 649ms | HIST |
+| DMAX | 🟢 | 21ms | HIST |
+| Euro D | 🟢 | 368ms | HIST |
+| Euro Star | 🟢 | 22ms | HIST |
+| Flash Haber | 🟢 | 122ms | HIST |
+| Kanal 7 | 🟢 | 109ms | HIST |
+| Kanal 7 Avrupa | 🟢 | 149ms | HIST |
+| Kanal D | 🟢 | 298ms | HIST |
 | Koy TV | ⚠️ (Geoblock) | 0ms | FORCE |
-| NOW (FOX) | 🟢 | 153ms | HIST |
-| Persiana Turkiye | 🟢 | 165ms | JSON |
+| NOW (FOX) | 🟢 | 181ms | HIST |
+| Persiana Turkiye | 🟢 | 108ms | HIST |
 | Show TV | ⚠️ (Geoblock) | 0ms | FORCE |
-| Show Turk | 🟢 | 13ms | JSON |
+| Show Turk | 🟢 | 10ms | HIST |
 | Star TV | ⚠️ (Geoblock) | 0ms | FORCE |
-| Syria TV | 🟢 | 18ms | HIST |
-| TLC | 🟢 | 542ms | JSON |
-| TRT 1 | 🟢 | 743ms | JSON |
-| TRT Turk | 🟢 | 21ms | JSON |
-| TRT World | 🟢 | 18ms | JSON |
-| TV100 | 🟢 | 663ms | HIST |
-| TV4 | 🟢 | 148ms | JSON |
+| Syria TV | 🟢 | 29ms | HIST |
+| TLC | 🟢 | 167ms | JSON |
+| TRT 1 | 🟢 | 529ms | HIST |
+| TRT Turk | 🟢 | 21ms | HIST |
+| TRT World | 🟢 | 13ms | HIST |
+| TV100 | 🟢 | 510ms | HIST |
+| TV4 | 🟢 | 583ms | HIST |
 | TV8 | ⚠️ (Geoblock) | 0ms | FORCE |
-| Teve 2 | 🟢 | 421ms | HIST |
-| Tivi 6 | 🟢 | 189ms | JSON |
+| Teve 2 | 🟢 | 236ms | HIST |
+| Tivi 6 | 🟢 | 148ms | HIST |
 | Turizm Turk | ⚠️ (Geoblock) | 0ms | FORCE |
 | Ulke TV | ⚠️ (Geoblock) | 0ms | FORCE |
 | Uçankuş TV | ⚠️ (Geoblock) | 0ms | FORCE |
-| Aksu TV (Maras) | 🟢 | 170ms | HIST |
-| BRTV (Karabuk) | 🟢 | 174ms | HIST |
+| Aksu TV (Maras) | 🟢 | 130ms | HIST |
+| BRTV (Karabuk) | 🟢 | 119ms | JSON |
 | Bursa TV | ⚠️ (Geoblock) | 0ms | FORCE |
 | Cay TV (Rize) | ⚠️ (Geoblock) | 0ms | FORCE |
-| ES TV (Eskisehir) | 🟢 | 170ms | HIST |
+| ES TV (Eskisehir) | 🟢 | 125ms | JSON |
 | Edessa TV (Urfa) | ⚠️ (Geoblock) | 0ms | FORCE |
 | Ege TV | ⚠️ (Geoblock) | 0ms | FORCE |
 | HRT Akdeniz | ⚠️ (Geoblock) | 0ms | FORCE |
 | Kadirga TV (Trabzon) | ⚠️ (Geoblock) | 0ms | FORCE |
-| Kanal 15 (Burdur) | 🟢 | 170ms | JSON |
-| Kanal 26 (Eskisehir) | 🟢 | 170ms | JSON |
+| Kanal 15 (Burdur) | 🟢 | 125ms | HIST |
+| Kanal 26 (Eskisehir) | 🟢 | 119ms | HIST |
 | Kanal 33 (Mersin) | ⚠️ (Geoblock) | 0ms | FORCE |
-| Kanal 58 (Sivas) | 🟢 | 170ms | HIST |
+| Kanal 58 (Sivas) | 🟢 | 120ms | HIST |
 | Kanal S (Samsun) | ⚠️ (Geoblock) | 0ms | FORCE |
-| Kanal V (Antalya) | 🟢 | 174ms | HIST |
+| Kanal V (Antalya) | 🟢 | 122ms | HIST |
 | Kon TV (Konya) | 🔴 | - | - |
 | Line TV (Bursa) | ⚠️ (Geoblock) | 0ms | FORCE |
 | Manisa TV | ⚠️ (Geoblock) | 0ms | FORCE |
 | On6 TV | ⚠️ (Geoblock) | 0ms | FORCE |
-| TRT Avaz | 🟢 | 25ms | HIST |
-| TRT Kurdi | 🟢 | 14ms | JSON |
-| TV 41 (Kocaeli) | 🟢 | 177ms | HIST |
+| TRT Avaz | 🟢 | 12ms | HIST |
+| TRT Kurdi | 🟢 | 14ms | HIST |
+| TV 41 (Kocaeli) | 🟢 | 120ms | HIST |
 | TV 52 (Ordu) | ⚠️ (Geoblock) | 0ms | FORCE |
-| Ton TV (Canakkale) | 🟢 | 170ms | JSON |
+| Ton TV (Canakkale) | 🟢 | 122ms | HIST |
