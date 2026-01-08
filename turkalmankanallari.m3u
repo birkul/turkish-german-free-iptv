@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.tvcdn.net/guide/tr-guide.xml,https://epg.share.zips.ovh/germany.xml"
-#EXTINF:-1 group-title="INFO", STAND: 07.01.2026 23:43
+#EXTINF:-1 group-title="INFO", STAND: 08.01.2026 00:55
 http://localhost/info.m3u8
 #EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/3sat_Logo_2019.svg/1200px-3sat_Logo_2019.svg.png" group-title="DE | Deutsch",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
@@ -177,7 +177,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bei
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 tvg-id="HTSpor.tr" tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="TR | Spor",HT Spor [FHD]
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="TR | Spor",Sports TV
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="TR | Spor",Sports TV [SD]
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="TR | Spor",TJK TV [FHD]
 https://tjktv-live.tjk.org/tjktv.m3u8
